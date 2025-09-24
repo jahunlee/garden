@@ -4,3 +4,5 @@
 
 
 Hello world!
+
+[[000_Garden/Test\|Test]]
