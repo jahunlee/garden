@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000-garden/test/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/000-garden/test/"}
 ---
 
 Hello Worldfa?
